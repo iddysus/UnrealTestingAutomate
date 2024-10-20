@@ -6,6 +6,8 @@ import random
 import os
 import psutil
 
+# Written by Idlan bin Hafiz
+
 # Configure logging for automated testing
 logging.basicConfig(filename="game_automation.log", level=logging.INFO, format="%(asctime)s - %(message)s")
 
