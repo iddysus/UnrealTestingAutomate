@@ -22,3 +22,5 @@ This tool automates basic game testing tasks by simulating player actions such a
    ```
 
 2. The tool will simulate player actions and log performance data in `game_automation.log`. If any issues occur, a screenshot will be saved as `error_screenshot.png`.
+
+Written by Idlan bin Hafiz
